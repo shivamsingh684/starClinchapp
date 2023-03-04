@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/starClinchappls/static/css/main.c2c30dce.css",
+    "main.js": "/starClinchappls/static/js/main.95c8f03d.js",
+    "index.html": "/starClinchappls/index.html",
+    "main.c2c30dce.css.map": "/starClinchappls/static/css/main.c2c30dce.css.map",
+    "main.95c8f03d.js.map": "/starClinchappls/static/js/main.95c8f03d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2c30dce.css",
+    "static/js/main.95c8f03d.js"
+  ]
+}
